@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Student_RegForm_StateManagement\Student_RegForm_StateManagement\bin\Student_RegForm_StateManagement.dll
+c:\users\admin\documents\visual studio 2012\Projects\Student_RegForm_StateManagement\Student_RegForm_StateManagement\bin\Student_RegForm_StateManagement.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Student_RegForm_StateManagement\Student_RegForm_StateManagement\obj\Debug\Student_RegForm_StateManagement.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Student_RegForm_StateManagement\Student_RegForm_StateManagement\obj\Debug\Student_RegForm_StateManagement.dll
+c:\users\admin\documents\visual studio 2012\Projects\Student_RegForm_StateManagement\Student_RegForm_StateManagement\obj\Debug\Student_RegForm_StateManagement.pdb
